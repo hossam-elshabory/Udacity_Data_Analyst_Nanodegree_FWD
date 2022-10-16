@@ -20,7 +20,7 @@ This Certificate was part of the EgyptFWD initiative.
 
 # Certificate Content
 The Certificate consists of two main courses :
-1. ### [Professional Data Analysis Nanodegree Program](Udacity_Professional_Data_Analyst_Nanodegree_FWD\README.md)
+1. ### [Professional Data Analysis Nanodegree Program](https://github.com/hossam-elshabory/Udacity_Data_Analyst_Nanodegree_FWD/tree/master/Udacity_Professional_Data_Analyst_Nanodegree_FWD)
 
     <details>
     <summary>CLICK HERE TO VIEW CERTIFICATE</summary>
@@ -29,7 +29,7 @@ The Certificate consists of two main courses :
 
     </details>
 
-2. ### [Advanced Data Analysis Nanodegree Program](Udacity_Advanced_Data_Analyst_Nanodegree_FWD\README.md)
+2. ### [Advanced Data Analysis Nanodegree Program](https://github.com/hossam-elshabory/Udacity_Data_Analyst_Nanodegree_FWD/tree/master/Udacity_Advanced_Data_Analyst_Nanodegree_FWD)
 
     <details>
     <summary>CLICK HERE TO VIEW CERTIFICATE</summary>
