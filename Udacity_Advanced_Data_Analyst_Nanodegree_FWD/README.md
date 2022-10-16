@@ -1,5 +1,8 @@
 # Udacity Advanced Data Analysis Nanodegree Program
-## CERT LINK [HERE](https://confirm.udacity.com/EUKDTLGR)
+
+# Certificate
+
+### CERT LINK [HERE](https://confirm.udacity.com/EUKDTLGR)
 ![](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/92b1d8bc-8fa8-4a2b-8339-9fdccedc8ce1.svg)
 
 # Certificate Projects
