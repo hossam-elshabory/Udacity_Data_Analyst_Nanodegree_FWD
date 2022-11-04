@@ -7,6 +7,6 @@
 
 # Certificate Projects
 - ### [Advanced Data Analysis Nanodegree Program](Udacity_Advanced_Data_Analyst_Nanodegree_FWD\README.md)
-  1. [Analyze_AB_Test_Results](Udacity_Advanced_Data_Analyst_Nanodegree_FWD\Analyze_AB_Test_Results\README.md)
-  2. [Communicate_Data_Findings](Udacity_Advanced_Data_Analyst_Nanodegree_FWD\Communicate_Data_Findings\README.md)
+  1. [Analyze_AB_Test_Results](https://github.com/hossam-elshabory/Udacity_Data_Analyst_Nanodegree_FWD/tree/master/Udacity_Advanced_Data_Analyst_Nanodegree_FWD/Analyze_AB_Test_Results)
+  2. [Communicate_Data_Findings](https://github.com/hossam-elshabory/Udacity_Data_Analyst_Nanodegree_FWD/tree/master/Udacity_Advanced_Data_Analyst_Nanodegree_FWD/Communicate_Data_Findings)
 
