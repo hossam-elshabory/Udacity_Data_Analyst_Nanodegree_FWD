@@ -33,32 +33,32 @@ The used dataset can be found [here](https://www.kaggle.com/datasets/tmdb/tmdb-m
 <summary>CLICK HERE TO VIEW FINDINGS AND VISUALIZATIONS</summary>
     
 - ### Which Movie has returned the highest and lowest revenues?
-![](imgs/hiest_rev_movie_returned.png)
+![](https://github.com/hossam-elshabory/Udacity_Data_Analyst_Nanodegree_FWD/blob/master/Udacity_Professional_Data_Analyst_Nanodegree_FWD/Investigate_TMDb_Movie_Dataset/imgs/hiest_rev_movie_returned.png)
 
 > The movie Avatar has returned the highest revenue followed by Star Wars: The Force Awakens, Titanic, The Avengers and Jurassic World.
 
-![](imgs/lowest_rev_returned.png)
+![](https://github.com/hossam-elshabory/Udacity_Data_Analyst_Nanodegree_FWD/blob/master/Udacity_Professional_Data_Analyst_Nanodegree_FWD/Investigate_TMDb_Movie_Dataset/imgs/lowest_rev_returned.png)
 
 > The movie Shattered Glass has returned the lowest revenue followed by Mallrats, Dr.Horrible's Sing-Along Blog, Kid's Story and Bordello of Blood.
 
 ---
 
 - ### What kinds of features are associated with high revenue?
-![](imgs\headmap_corr.png)
+![](https://github.com/hossam-elshabory/Udacity_Data_Analyst_Nanodegree_FWD/blob/master/Udacity_Professional_Data_Analyst_Nanodegree_FWD/Investigate_TMDb_Movie_Dataset/imgs/headmap_corr.png)
 
 > The heatmap shows that the features that are correlated with a movie having a high revenue are popularity, budget and profit.
 
 ---
 
 - ### What are the profitable movie genres?
-![](imgs\top_20_genres.png)
+![](https://github.com/hossam-elshabory/Udacity_Data_Analyst_Nanodegree_FWD/blob/master/Udacity_Professional_Data_Analyst_Nanodegree_FWD/Investigate_TMDb_Movie_Dataset/imgs/top_20_genres.png)
 
 > Movie genres Adventure, Action, Science Fiction and Family seems to be the most popular in the top 20 movies.
 
 ---
 
 - ### What was the year that has the most movies with the highest profit?
-![](imgs\year_most_profit.png)
+![](https://github.com/hossam-elshabory/Udacity_Data_Analyst_Nanodegree_FWD/blob/master/Udacity_Professional_Data_Analyst_Nanodegree_FWD/Investigate_TMDb_Movie_Dataset/imgs/year_most_profit.png)
 
 > Year 2015 is the year that has the movies with the highest profits.
 
