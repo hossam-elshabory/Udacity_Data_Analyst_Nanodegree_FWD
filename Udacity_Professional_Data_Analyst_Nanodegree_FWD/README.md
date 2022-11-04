@@ -7,5 +7,5 @@
 
 # Certificate Projects
 - ### [Professional Data Analysis Nanodegree Program](Udacity_Professional_Data_Analyst_Nanodegree_FWD)
-  1. [Explore_US_Bikeshare_Data](Udacity_Professional_Data_Analyst_Nanodegree_FWD\Explore_US_Bikeshare_Data)
-  2. [Investigate_TMDb_Movie_Dataset](Udacity_Professional_Data_Analyst_Nanodegree_FWD\Investigate_TMDb_Movie_Dataset)
+  1. [Explore_US_Bikeshare_Data](https://github.com/hossam-elshabory/Udacity_Data_Analyst_Nanodegree_FWD/tree/master/Udacity_Professional_Data_Analyst_Nanodegree_FWD/Explore_US_Bikeshare_Data)
+  2. [Investigate_TMDb_Movie_Dataset](https://github.com/hossam-elshabory/Udacity_Data_Analyst_Nanodegree_FWD/tree/master/Udacity_Professional_Data_Analyst_Nanodegree_FWD/Investigate_TMDb_Movie_Dataset)
