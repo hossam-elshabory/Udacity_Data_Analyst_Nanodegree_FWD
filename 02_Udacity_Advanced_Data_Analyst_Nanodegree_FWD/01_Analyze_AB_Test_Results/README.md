@@ -6,7 +6,7 @@
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
     - [Languages and libraries used](#languages-and-libraries-used)
-- [Conclustion](#conclustion)
+- [Conclusion](#conclusion)
 - [Authors](#authors)
 
 # Introduction
@@ -24,8 +24,8 @@ The used datasets can be found in the local Data folder [here](Data/)
 - Matplotlib
 - random
 
-# Conclustion 
-We reject the null hypothesis as there is no enought evidence to accept it, or in another words there is no enough evidence that the new page is leading to more conversions.
+# Conclusion  
+We reject the null hypothesis as there is no enough evidence to accept it, or in another words there is no enough evidence that the new page is leading to more conversions.
 
 # Authors
 - [@Hossam El-Shabory](https://github.com/hossam-elshabory)
