@@ -1,4 +1,4 @@
-# Comunicate Data Findings<!-- omit in toc -->
+# Communicate Data Findings<!-- omit in toc -->
 ### Ford GoBike System Data Analysis<!-- omit in toc -->
 ![](https://miro.medium.com/max/850/0*3iUSkahCvKP-loXC.jpg)
 
@@ -33,34 +33,28 @@ The used dataset can be found [here](https://www.kaggle.com/code/chirag02/ford-g
     
 - #### About a 90% of the users are subscribed to the service and others are just customers
 
-![](Imgs/user_type.png)
+![Alt text](Imgs/users_type.png)
 
----
 ---
 
 - #### Most of users tend to be Males be 76%
-![](Imgs/gender_type.png)
+![Alt text](Imgs/members_gender.png)
 
----
----
-
-
-- #### Most of the bikes usage are in the work days ~(83%), with high usage on Tuesday; assuming it's used to commute to work    
-![](Imgs\Usage_weekdays.png)
-
----
 ---
 
 - #### Most of the bikes usage are in the work days ~(83%), with high usage on Tuesday; assuming it's used to commute to work
-![](Imgs\Usage_weekdays.png)
+![Alt text](Imgs/total_service_week_days.png)
 
 ---
+
+- #### Customers seem to take more trips on weekends than subscribers, subscribers seems to have a steady trip duration across the week with a little dip in the duration on weekends.
+
+![Alt text](Imgs/week_days_and_duration.png)
+
 ---
 
 - #### Most of the trips duration are 5 to 10 hours long.
-![](Imgs\Trip_duration.png)
-    
----
+![Alt text](Imgs/bik_duration_dist.png)
 
 </details>
 
@@ -83,7 +77,7 @@ In the exploration, I found that:
 # Conclusions
 ### Key Insight
 
-> Workdays and trips duration , also trip time users seems to make trips around 7 to 9 am and also around 6 to 8 pm, which strengthes the assumption that users are using the service to commute to and from work.
+> Workdays and trips duration , also trip time users seems to make trips around 7 to 9 am and also around 6 to 8 pm, which strengthens the assumption that users are using the service to commute to and from work.
 
 ---
 
