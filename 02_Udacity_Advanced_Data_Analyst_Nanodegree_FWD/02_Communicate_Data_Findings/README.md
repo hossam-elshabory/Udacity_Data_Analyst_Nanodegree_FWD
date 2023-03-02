@@ -77,7 +77,7 @@ In the exploration, I found that:
 - Most of customers and subscribers that are taking the trips are within the ages of 27 to 37
 - Females trips duration are slightly longer than males
 - Customers over all take longer trips than subscribers
-- Most of users are males but females take the longer trips but also, customers take longer trips over all than subscribers so i'm asumming most of customers are females.
+- Most of users are males but females take the longer trips but also, customers take longer trips over all than subscribers so i'm assuming most of customers are females.
 
 
 # Conclusions
