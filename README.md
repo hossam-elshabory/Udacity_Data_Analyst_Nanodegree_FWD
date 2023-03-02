@@ -1,4 +1,4 @@
-# Udacity Data Analyst Nanodegree FWD<!-- omit in toc -->
+# Udacity Data Analyst Nanodegree FWD<img src="./Assets\udacity_logo.png" align="right" width="100" /><!-- omit in toc -->
 ![](Assests/Udacity_data_analyst_banner.png)
 
 # Table Of Content<!-- omit in toc -->
@@ -12,11 +12,6 @@ This program prepares you for a career as a data analyst by helping you learn to
 patterns and insights, draw meaningful conclusions, and clearly communicate critical findings. You’ll
 develop proficiency in Python and its data analysis libraries (Numpy, pandas, Matplotlib) and as you
 build a portfolio of projects to showcase in your job search.
-
-This Certificate was part of the EgyptFWD initiative.
-<p align="center">
-  <img width="300" height="" src="Assests\egfwd.jpg">
-</p>
 
 # Certificate Content
 The Certificate consists of two main courses :
@@ -49,11 +44,6 @@ The Certificate consists of two main courses :
   2. [Communicate_Data_Findings](https://github.com/hossam-elshabory/Udacity_Data_Analyst_Nanodegree_FWD/tree/master/Udacity_Advanced_Data_Analyst_Nanodegree_FWD/Communicate_Data_Findings)
 
 # Skills Learned
-[![Jupyter Notebook - Analyzing - Creating Reports](https://img.shields.io/badge/Jupyter_Notebook-Analyzing_--_Creating_Reports-ff9500?style=for-the-badge&logo=jupyter)](https://)
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="100" height="100"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="100" height="100"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="100" height="100"/> </a> </p>
 
-[![Python - Coding](https://img.shields.io/badge/Python-Coding-eeec11?style=for-the-badge&logo=python)](https://)
-
-[![Pandas - EDA - Wrangling](https://img.shields.io/badge/Pandas-EDA_--_Wrangling-bf31ce?style=for-the-badge&logo=pandas)](https://)
-
-[![NumPy - Numerical Python](https://img.shields.io/badge/NumPy-Numerical_Python-2f00ff?style=for-the-badge&logo=NumPy)](https://)
 
