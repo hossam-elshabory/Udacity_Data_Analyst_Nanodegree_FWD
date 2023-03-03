@@ -8,10 +8,7 @@
 - [Skills Learned](#skills-learned)
 
 # Overview Of Certificate
-This program prepares you for a career as a data analyst by helping you learn to organize data, uncover
-patterns and insights, draw meaningful conclusions, and clearly communicate critical findings. You’ll
-develop proficiency in Python and its data analysis libraries (Numpy, pandas, Matplotlib) and as you
-build a portfolio of projects to showcase in your job search.
+This program prepares you for a career as a data analyst by helping you learn to organize data, uncover patterns and insights, draw meaningful conclusions, and clearly communicate critical findings. You’ll develop proficiency in Python and its data analysis libraries (Numpy, pandas, Matplotlib) and as you build a portfolio of projects to showcase in your job search.
 
 # Certificate Content
 The Certificate consists of two main courses :
